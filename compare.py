@@ -8,5 +8,6 @@ if x<y:
 elif x>y :
     print("x greater than y")
     
-elif x==y:
+# elif x==y:
+else:
     print("x equals y")
