@@ -12,7 +12,10 @@ y= int(input("What's y?"))
 # else:
 #     print("x equals y")
 
-if x<y  or x>y:
+# if x<y  or x>y:
+#     print("x is not equal to y")
+
+if x != y:
     print("x is not equal to y")
     
 else:
